@@ -1,6 +1,2 @@
-discord.py>=2.6.0
+discord.py
 aiohttp
-torch
-torchvision
-clip @ git+https://github.com/openai/CLIP.git
-Pillow
